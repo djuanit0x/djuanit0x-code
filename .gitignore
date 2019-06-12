@@ -1,0 +1,7 @@
+public/
+.DS_STORE
+
+# # executable may be added to repository
+hugo.exe
+hugo.darwin
+hugo.linux
